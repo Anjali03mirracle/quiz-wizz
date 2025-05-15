@@ -1,4 +1,4 @@
-# Quiz-It-Up
+# Quiz-wizz
 
 LIVE LINK :- (https://anjali03mirracle.github.io/quiz-wizz/) <br>
 This is a simple project , which is basically, a quiz web app where you can answer the coming up questions. It uses HTML, CSS, JavaScript and Open Trivia Database.
